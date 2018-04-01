@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vstest.app", "..\vstest.app\src\vstest.app\vstest.app.csproj", "{35F655F1-7340-4851-9E3D-1B837EC5AC78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vstest.app", "src\vstest.app\src\vstest.app\vstest.app.csproj", "{039163D1-73C8-4A1A-8F69-59DAEB827F5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vstest.app.Tests", "..\vstest.app\src\vstest.app.Tests\vstest.app.Tests.csproj", "{923DC9A3-0EC8-4930-9450-35E21D3F18F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vstest.app.Tests", "src\vstest.app\src\vstest.app.Tests\vstest.app.Tests.csproj", "{923DC9A3-0EC8-4930-9450-35E21D3F18F7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vstest.web", "src\vstest.web\vstest.web\vstest.web.csproj", "{4D761298-006A-4E0F-9B29-49B60D19AF07}"
 EndProject
@@ -17,10 +17,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{35F655F1-7340-4851-9E3D-1B837EC5AC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35F655F1-7340-4851-9E3D-1B837EC5AC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35F655F1-7340-4851-9E3D-1B837EC5AC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35F655F1-7340-4851-9E3D-1B837EC5AC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039163D1-73C8-4A1A-8F69-59DAEB827F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039163D1-73C8-4A1A-8F69-59DAEB827F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039163D1-73C8-4A1A-8F69-59DAEB827F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039163D1-73C8-4A1A-8F69-59DAEB827F5B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{923DC9A3-0EC8-4930-9450-35E21D3F18F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{923DC9A3-0EC8-4930-9450-35E21D3F18F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{923DC9A3-0EC8-4930-9450-35E21D3F18F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
