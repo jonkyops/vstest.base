@@ -1,0 +1,6 @@
+[submodule "src/vstest.web"]
+	path = src/vstest.web
+	url = https://github.com/jonkyops/vstest.web.git
+[submodule "src/vstest.app"]
+	path = src/vstest.app
+	url = https://github.com/jonkyops/vstest.app.git
